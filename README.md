@@ -24,7 +24,7 @@ A hack / utility client for the game "Muck"
  
  ![Capture](https://user-images.githubusercontent.com/62238729/121025233-3d7c0000-c7a5-11eb-9274-d8ac8ffd4648.PNG)
 
- Then download the file "stikosekutilities.rar" and extract it. (I use winrar)
+ Then download the file "stikosekutilities.rar" and extract it. (I use winrar) (You can download the file from here: Download the latest release :) https://github.com/stikosek/stikosekutilities/releases)
  
  ![Capture](https://user-images.githubusercontent.com/62238729/121025808-d743ad00-c7a5-11eb-9c01-e2f3a112d166.PNG)
  
