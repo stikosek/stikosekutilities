@@ -1,3 +1,4 @@
+#CURENTLY FOR VERSION1 ONLY!
 # stikosek utilities
 A hack / utility client for the game "Muck" 
 
