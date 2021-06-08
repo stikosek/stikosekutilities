@@ -1,4 +1,4 @@
-#WARNING!
+# WARNINING!
 Curently for VERSION1 ONLY!!!
 
 # stikosek utilities
