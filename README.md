@@ -10,6 +10,16 @@ A hack / utility client for the game "Muck"
  - Loot chests without gold (Toggle) (Key U)
  - Resource instamine (Toggle) (Key L)
  - Enemy instakill (Toggle) (Key K)
+ 
+ITEM SUMMONING:
+ - 32x Wood (Key F1)
+ - 100x Coins (Key F2)
+ - 5x Adamantite (Key F3)
+
+# What is planned?
+- item duplication
+- Speed hacks
+- BepLnEx
 
 # Instalation
  Go to the game directory.
