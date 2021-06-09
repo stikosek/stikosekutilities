@@ -13,8 +13,8 @@ A hack / utility client for the game "Muck"
  
 ITEM SUMMONING:
  - 32x Wood (Key F1)
- - 100x Coins (Key F2)
- - 5x Adamantite (Key F3)
+ - 5x Adamantite (Key F2)
+ - 100x Coins (Key F3)
 
 # What is planned?
 - item duplication
