@@ -23,6 +23,7 @@ ITEM SUMMONING:
 
 # Instalation
  Go to the game directory.
+ To get there go to steam then LIBRARY then right click on muck select "Manage" and then "Browse local files"
  You should see this:
  
  
