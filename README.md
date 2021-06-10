@@ -7,7 +7,7 @@ A hack / utility client for the game "Muck"
  - Infinite health (Toggle) (Key P)
  - Infinite stamina (Toggle) (Key O)
  - Infinite food (Toggle) (Key I)
- - Loot chests without gold (Toggle) (Key U)
+ - Loot chests without gold (Toggle) (Key J)
  - Resource instamine (Toggle) (Key L)
  - Enemy instakill (Toggle) (Key K)
  
