@@ -11,7 +11,7 @@ Coded updated and managed by stikosek.
  - Infinite food (Toggle) (Key I)
  - Loot chests without gold (Toggle) (Key J)
  - Resource instamine (Toggle) (Key L)
- - Enemy instakill (Toggle) (Key K)
+ - Mob instakill (Toggle) (Key K) (Works only with mobs)
  
 ITEM SUMMONING:
  - 32x Wood (Key F1)
