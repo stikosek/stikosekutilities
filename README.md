@@ -12,8 +12,10 @@ Coded updated and managed by stikosek.
  - Loot chests without gold (Toggle) (Key J)
  - Resource instamine (Toggle) (Key L)
  - Mob instakill (Toggle) (Key K) (Works only with mobs)
+ - Flight (Toggle) (Key N) (Is bassicaly infinite jumps in air)
  
 ITEM SUMMONING:
+WARING ITEM SUMMONING IS COMPLEATLY BROKEN AT THE MOMENT!
  - 32x Wood (Key F1)
  - 5x Adamantite (Key F2)
  - 100x Coins (Key F3)
