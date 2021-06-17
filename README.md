@@ -23,7 +23,7 @@ WARING ITEM SUMMONING IS COMPLEATLY BROKEN AT THE MOMENT!
 # What is planned?
 - item duplication
 - Speed hacks
-- BepLnEx
+- BepInEx
 
 # Installation
  Go to the game directory.
