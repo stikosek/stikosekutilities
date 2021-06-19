@@ -6,19 +6,20 @@ A hack / utility client for the game "Muck"
 Coded updated and managed by stikosek.
 
 # Curently contains:
- - Infinite health (Toggle) (Key P)
- - Infinite stamina (Toggle) (Key O)
- - Infinite food (Toggle) (Key I)
- - Loot chests without gold (Toggle) (Key J)
- - Resource instamine (Toggle) (Key L)
- - Mob instakill (Toggle) (Key K) (Works only with mobs)
- - Flight (Toggle) (Key N) (Is bassicaly infinite jumps in air)
- 
-ITEM SUMMONING:
-WARING ITEM SUMMONING IS COMPLEATLY BROKEN AT THE MOMENT!
- - 32x Wood (Key F1)
- - 5x Adamantite (Key F2)
- - 100x Coins (Key F3)
+ - Infinite health (Toggle)
+ - Infinite stamina (Toggle)
+ - Infinite food (Toggle)
+ - Loot chests without gold (Toggle)
+ - Resource instamine (Toggle) 
+ - Mob instakill (Toggle) 
+ - Flight (Toggle) 
+ - Item summoning
+ - Mob spawning 
+ - Player stats override
+
+# Controls
+Everything is gui controlled
+
 
 # What is planned?
 - item duplication
