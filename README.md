@@ -14,8 +14,9 @@ Coded updated and managed by stikosek.
  - Mob instakill (Toggle) 
  - Flight (Toggle) 
  - Item summoning
- - Mob spawning 
- - Player stats override
+ - Hover
+ - No clip
+ - CLick tp
 
 # Controls
 Everything is gui controlled
