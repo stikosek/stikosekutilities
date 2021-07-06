@@ -1,4 +1,6 @@
 
+# Discord server
+discord.gg/stikosek
 
 # stikosek utilities
 
@@ -6,17 +8,27 @@ A hack / utility client for the game "Muck"
 Coded updated and managed by stikosek.
 
 # Curently contains:
- - Infinite health (Toggle)
- - Infinite stamina (Toggle)
- - Infinite food (Toggle)
- - Loot chests without gold (Toggle)
- - Resource instamine (Toggle) 
- - Mob instakill (Toggle) 
- - Flight (Toggle) 
- - Item summoning
- - Hover
- - No clip
- - CLick tp
+- God Mode
+- Infinite Stamina
+- Infinite food
+- Flight
+- Instamine
+- Insta kill
+- Chests without gold
+- Omega jump
+- No clip
+- Speed hacks
+- Hover
+- Click tp
+- Kill player [host]
+- Kick player [host]
+- Cage player
+- Teleport to player
+- Chat color
+- Item spawning
+- Powerup spawning
+- Mob spawning [host]
+- GUI toggle
 
 # Controls
 Everything is gui controlled
