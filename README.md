@@ -1,3 +1,7 @@
+# IMPORTANT
+all new updates are going to be only released on our discord server!
+you can find it here below this message.
+
 
 # Discord server
 discord.gg/stikosek
