@@ -38,7 +38,7 @@ Everything is gui controlled
 
 # Installation
  1. Download [BepInEx](https://github.com/BepInEx/BepInEx/releases), the file name should start with "BepInEx_x64".
- 2. Download [stikosekutilities.dll](https://github.com/stikosek/stikosekutilities/releases/latest/download/stikosekutilities2.dll)
+ 2. Download [stikosekutilities.dll](https://github.com/stikosek/stikosekutilities/releases/latest/download/stikosekutilities.dll)
  3. Extract the Zip archive (BepInEx file) in your Muck Installation Folder(open Steam then Right Click Muck in your library -> Manage -> Browse local Files).
  4. Start the Game and then close it once you are in the Main Menu (We do this beucase we need bepinex to generate some files).
  5. Go to the "plugins" in "Muck/BepInEx/" (Will load after step 4) then copy the [stikosekutilities.dll](https://github.com/stikosek/stikosekutilities/releases/latest/download/stikosekutilities2.dll) into it.
