@@ -1,14 +1,6 @@
-# IMPORTANT
-all new updates are going to be only released on our discord server!
-you can find it here below this message.
-
-
-# Discord server
-discord.gg/stikosek
-
 # stikosek utilities
 
-A hack / utility client for the game "Muck" 
+A hack / utility client for the game Muck
 Coded updated and managed by stikosek.
 
 # Curently contains:
@@ -18,7 +10,7 @@ Coded updated and managed by stikosek.
 - Flight
 - Instamine
 - Insta kill
-- Chests without gold
+- Free chests
 - Omega jump
 - No clip
 - Speed hacks
@@ -33,63 +25,28 @@ Coded updated and managed by stikosek.
 - Powerup spawning
 - Mob spawning [host]
 - GUI toggle
+- Destroy all rocks
+- Destroy all resources
+- Player esp
+- Resource esp
+- Fuck chat
+- Unlock all advancments
+- Reset all advancments
 
 # Controls
 Everything is gui controlled
 
-
-# What is planned?
-- item duplication
-- Speed hacks
-- BepLnEx
-
 # Installation
- Go to the game directory.
- To get there go to steam then LIBRARY then right click on muck select "Manage" and then "Browse local files"
- You should see this:
- 
- 
-![Capture](https://user-images.githubusercontent.com/62238729/121024575-a4e58000-c7a4-11eb-80a1-10507eb72c49.PNG)
+ 1. Download [BepInEx](https://github.com/BepInEx/BepInEx/releases), the file name should start with "BepInEx_x64".
+ 2. Download [stikosekutilities.dll](https://github.com/stikosek/stikosekutilities/releases/latest/download/stikosekutilities2.dll)
+ 3. Extract the Zip archive (BepInEx file) in your Muck Installation Folder(open Steam then Right Click Muck in your library -> Manage -> Browse local Files).
+ 4. Start the Game and then close it once you are in the Main Menu (We do this beucase we need bepinex to generate some files).
+ 5. Go to the "plugins" in "Muck/BepInEx/" (Will load after step 4) then copy the [stikosekutilities.dll](https://github.com/stikosek/stikosekutilities/releases/latest/download/stikosekutilities2.dll) into it.
+ 6. And your done! Launch the game and your all set. If you have trouble with this feel free to ask for support on my discord server!
 
-
- Go to "Muck_Data".
- Then you should see this:
- 
- ![Capture](https://user-images.githubusercontent.com/62238729/121024809-dd855980-c7a4-11eb-9f4e-ea937a5c5fb3.PNG)
- 
- Go to "Managed"
- Again, then you should see many .dll files.
- Something like this:
- 
- ![Capture](https://user-images.githubusercontent.com/62238729/121025233-3d7c0000-c7a5-11eb-9274-d8ac8ffd4648.PNG)
-
- Then download the file "stikosekutilities.rar" and extract it. (I use winrar) (You can download the file from here: Download the latest release :) https://github.com/stikosek/stikosekutilities/releases)
- 
- ![Capture](https://user-images.githubusercontent.com/62238729/121025808-d743ad00-c7a5-11eb-9c01-e2f3a112d166.PNG)
- 
- You will get 2 files. Drag the .dll file from the extracted folder to the folder of the game.
- 
- ![Capture](https://user-images.githubusercontent.com/62238729/121026072-13770d80-c7a6-11eb-96ad-75222fa288e5.PNG)
- ![Capture](https://user-images.githubusercontent.com/62238729/121026184-2d185500-c7a6-11eb-8c09-8ee3ee9760bb.PNG)
-
- 
- it will ask you if you want to replace the files. CLICK YES.
- 
- ![Capture](https://user-images.githubusercontent.com/62238729/121026474-77013b00-c7a6-11eb-868d-4b2b55c1354f.PNG)
- 
- ![Capture](https://user-images.githubusercontent.com/62238729/121026639-9c8e4480-c7a6-11eb-96cd-b26713a2dde8.PNG)
- 
- 
- And now! You are done! You can play muck now with hacks or normaly.
- If you did everything right the game should start totaly normal.
- But in game if you press the keybinds for the hacks they should activate!
- 
-
-
- 
- 
- 
-
+# Other
+If you need help or wanna hang out join my [discord server](https://discord.gg/29PAur9AkB)!
+If you really like the cheatz you can [donate](ko-fi.com/stikosek)!
 
 
 
