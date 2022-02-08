@@ -8,7 +8,7 @@
 A hack / utility client for the game Muck
 Coded updated and managed by stikosek.
 
-# Curently contains:
+# Features:
 - God Mode
 - Infinite Stamina
 - Infinite food
@@ -51,7 +51,7 @@ Everything is gui controlled
 
 # Other
 If you need help or wanna hang out join my [discord server](https://discord.gg/29PAur9AkB)!
-If you really like the cheatz you can [donate](https://ko-fi.com/stikosek)!
+If you really like the cheats you can [donate](https://ko-fi.com/stikosek)!
 
 
 
