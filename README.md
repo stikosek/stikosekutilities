@@ -7,6 +7,7 @@
 
 A hack / utility client for the game Muck
 Coded updated and managed by stikosek.
+Scroll down for install instructions.
 
 # Features:
 - God Mode
@@ -52,6 +53,7 @@ Everything is gui controlled
 # Other
 If you need help or wanna hang out join my [discord server](https://discord.gg/29PAur9AkB)!
 If you really like the cheats you can [donate](https://ko-fi.com/stikosek)!
+ Please dont steal my code lol
 
 
 
