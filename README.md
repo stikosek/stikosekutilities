@@ -5,7 +5,7 @@
 
 # stikosek utilities
 
-A hack / utility client for the game Muck
+A hack / utility mod for the game Muck
 Coded updated and managed by stikosek.
 Scroll down for install instructions.
 
