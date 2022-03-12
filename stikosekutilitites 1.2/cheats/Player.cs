@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace stikosekutilitites_1._2.cheats
+﻿namespace stikosekutilitites_1._2.cheats
 {
     internal class Player
     {
@@ -46,6 +40,7 @@ namespace stikosekutilitites_1._2.cheats
             PlayerStatus.Instance.stamina = PlayerStatus.Instance.maxStamina;
 
         }
+
         // Food - Stamina but food. You get the point.
         public static void Food(bool activated)
         {
@@ -53,8 +48,6 @@ namespace stikosekutilitites_1._2.cheats
                 return;
             PlayerStatus.Instance.hunger = PlayerStatus.Instance.maxHunger;
         }
-      
-
 
         // Why are you even looking at my code lol, it fucking sucks.
         // Also endore h

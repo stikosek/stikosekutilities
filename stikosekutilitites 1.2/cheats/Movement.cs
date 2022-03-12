@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace stikosekutilitites_1._2.cheats
 {
@@ -27,10 +22,11 @@ namespace stikosekutilitites_1._2.cheats
             Speed(speed);
             ClickTp(clicktp);
             Hover(hover);
-            
+
         }
-        // Accual cheats now.
-        // GodMode - Infinite health.This method just resets the health & shields to max every frame. Its not the cleanesst way but kinda works.
+
+        // Actual cheats now.
+        // GodMode - Infinite health. This method just resets the health & shields to max every frame. Its not the cleanesst way but kinda works.
         public static void Flight(bool activated)
         {
             if (!activated)
@@ -62,15 +58,11 @@ namespace stikosekutilitites_1._2.cheats
 
         }
 
-        
 
         public static void OmegaJump(bool activated)
         {
             if (!activated)
                 return;
-
-
-           
         }
 
 
@@ -78,16 +70,11 @@ namespace stikosekutilitites_1._2.cheats
         {
             if (!activated)
             {
-                UnityEngine.Object.FindObjectOfType<PlayerMovement>().GetPlayerCollider().enabled = true;
+                Object.FindObjectOfType<PlayerMovement>().GetPlayerCollider().enabled = true;
                 return;
             }
-               
-           
-            UnityEngine.Object.FindObjectOfType<PlayerMovement>().GetPlayerCollider().enabled = false;
-            
-         
 
-
+            Object.FindObjectOfType<PlayerMovement>().GetPlayerCollider().enabled = false;
         }
 
 
@@ -98,12 +85,8 @@ namespace stikosekutilitites_1._2.cheats
                 PlayerStatus.Instance.currentSpeedArmorMultiplier = 1;
                 return;
             }
-                
 
             PlayerStatus.Instance.currentSpeedArmorMultiplier = 25;
-       
-				
-
         }
 
 
@@ -114,30 +97,20 @@ namespace stikosekutilitites_1._2.cheats
 
             if (clicktp && Input.GetKeyDown(KeyCode.Mouse1))
             {
-
-                UnityEngine.Object.FindObjectOfType<PlayerMovement>().GetRb().position = SuFindPingPos();
+                Object.FindObjectOfType<PlayerMovement>().GetRb().position = SuFindPingPos();
             }
-
         }
-
-
 
         public static void Hover(bool activated)
         {
             if (!activated)
                 return;
 
-
-            UnityEngine.Object.FindObjectOfType<PlayerMovement>().GetRb().velocity = new Vector3(0f, 1f, 0f);
+            Object.FindObjectOfType<PlayerMovement>().GetRb().velocity = new Vector3(0f, 1f, 0f);
         }
-
-
-
 
         // Why are you even looking at my code lol, it fucking sucks.
         // Also endore h
-
-
         public static Vector3 SuFindPingPos()
         {
             Transform playerCam = PlayerMovement.Instance.playerCam;
