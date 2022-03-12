@@ -96,7 +96,7 @@
     <Compile Include="utils\DrawingUtilities.cs" />
     <Compile Include="gui\MainGuiStructure.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="utils\VersionCheck.cs" />
+    <Compile Include="utils\WelcomeScreen.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

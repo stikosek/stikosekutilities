@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace stikosekutilitites_1._2.gui
 {
@@ -17,10 +12,7 @@ namespace stikosekutilitites_1._2.gui
 
             //ESP BOX
             DrawBox(footpos.x - (width / 2), (float)Screen.height - footpos.y - height, width, height, color, 2f);
-
-
         }
-
 
         public static Texture2D lineTex;
         public static void DrawLine(Vector2 pointA, Vector2 pointB, Color color, float width)
@@ -49,7 +41,6 @@ namespace stikosekutilitites_1._2.gui
             DrawLine(new Vector2(x, y), new Vector2(x, y + h), color, thickness);
             DrawLine(new Vector2(x + w, y), new Vector2(x + w, y + h), color, thickness);
             DrawLine(new Vector2(x, y + h), new Vector2(x + w, y + h), color, thickness);
-
         }
     }
 }
