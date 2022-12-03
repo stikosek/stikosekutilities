@@ -42,7 +42,7 @@ Scroll down for install instructions.
 # Controls
 Everything is gui controlled
 
-# Automatic instalation
+# Automatic instalation (Propably broken, use manual instalation instead!)
  1. Download the [stikosekutilities installer](https://github.com/Dev-Packet/stikosekutilities2-installer/releases/download/1.1/stikosekutilities2_Installer.exe)
  2. Run the installer. If windows shows that its a "dangerous file" click More > Run anyway. (its safe and open source)
  3. Select stikosekutilities(remastered) if its not selected by default
@@ -51,7 +51,7 @@ Everything is gui controlled
  
 # Manual Installation
  NOTE: Please only use this method if the installer fails.
- 1. Download [BepInEx](https://github.com/BepInEx/BepInEx/releases), the file name should start with "BepInEx_x64".
+ 1. Download [BepInEx](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21),the file name should start with "BepInEx_x64".
  2. Download [stikosekutilities.dll](https://github.com/stikosek/stikosekutilities/releases/download/download/stikosekutilitites.dll)
  3. Extract the Zip archive (BepInEx file) in your Muck Installation Folder(open Steam then Right Click Muck in your library -> Manage -> Browse local Files).
  4. Start the Game and then close it once you are in the Main Menu (We do this beucase we need bepinex to generate some files).
