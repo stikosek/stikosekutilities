@@ -43,11 +43,12 @@ Scroll down for install instructions.
 Everything is gui controlled
 
 # Automatic instalation (Propably broken, use manual instalation instead!)
- 1. Download the [stikosekutilities installer](https://github.com/Dev-Packet/stikosekutilities2-installer/releases/download/1.1/stikosekutilities2_Installer.exe)
+ 1. Download the [stikosekutilities installer](https://github.com/Dev-Packet/stikosekutilities2-installer/releases/download/1.0.0.0/stikosekutilities2_Installer.exe)
  2. Run the installer. If windows shows that its a "dangerous file" click More > Run anyway. (its safe and open source)
- 3. Select stikosekutilities(remastered) if its not selected by default
- 4. Click install.
- NOTE: If you wish to uninstall click the red X
+ 3. The installer will open up. You can navigate it with arrows.
+ 4. Select stikosekutilities - (old but gold) if its not selected by default and press enter.
+ 5. Select install.
+ The installer will now do all the work and once it says instalation complete you are ready to go.
  
 # Manual Installation
  NOTE: Please only use this method if the installer fails.
