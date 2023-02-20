@@ -1,7 +1,8 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/stikosek)
  
 ![GitHub all releases](https://img.shields.io/github/downloads/stikosek/stikosekutilities/total?color=%23FF8C00&style=flat-square)
-[![GitHub lines of code](https://img.shields.io/github/downloads/stikosek/stikosekutilities/loc?color=%23FF8C00&style=flat-square)](https://img.shields.io/tokei/lines/github/stikosek/stikosekutilities)
+![GitHub lines of code](https://img.shields.io/tokei/lines/github/stikosek/stikosekutilities)
+
 
 # stikosek utilities
 
