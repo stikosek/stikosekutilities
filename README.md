@@ -34,7 +34,7 @@ Scroll down for install instructions.
 - Destroy all resources
 - Player esp
 - Resource esp
-- Fuck chat
+- Spam chat
 - Unlock all advancments
 - Reset all advancments
 
@@ -62,7 +62,7 @@ Everything is gui controlled
 # Other
 If you need help or wanna hang out join my [discord server](https://discord.gg/29PAur9AkB)!
 If you really like the cheats you can [donate](https://ko-fi.com/stikosek)!
-Please dont steal my code lol
+If you want to, you can take this shitty code. Attribution would be appreciated tho.
 
 
 
