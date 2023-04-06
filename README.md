@@ -5,9 +5,7 @@
 
 
 # stikosek utilities
-
-A hack / utility mod for the game Muck
-Coded updated and managed by stikosek.
+stikosekutilities is a utility mod for the game Muck with many features.
 Scroll down for install instructions.
 
 # Features:
