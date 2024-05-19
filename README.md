@@ -9,20 +9,20 @@ stikosekutilities is a utility mod for the game Muck with many features.
 Scroll down for install instructions.
 
 # Features:
-- God Mode
+- "God Mode"
 - Infinite Stamina
 - Infinite food
 - Flight
-- Instamine
-- Insta kill
+- Instant mining
+- Instant kill
 - Free chests
-- Omega jump
-- No clip
-- Speed hacks
+- "Omega jump"
+- No-clip
+- Speed mods
 - Hover
 - Click tp
-- Kill player [host]
-- Kick player [host]
+- Kill player [host only]
+- Kick player [host only]
 - Cage player
 - Teleport to player
 - Chat color
@@ -34,18 +34,18 @@ Scroll down for install instructions.
 - Destroy all resources
 - Player esp
 - Resource esp
-- Spam chat
-- Unlock all advancments
-- Reset all advancments
+- Auto chat messages
+- Unlock all advancments  (steam)
+- Remove all advancments  (steam)
 
 # Controls
 Everything is gui controlled
 
 # Automatic instalation
  1. Download the [stikosekutilities installer](https://github.com/Dev-Packet/stikosekutilities2-installer/releases/download/1.0.0.0/stikosekutilities2_Installer.exe)
- 2. Run the installer. If windows shows that its a "dangerous file" click More > Run anyway. (its safe and open source)
+ 2. Run the installer. If windows says that it's a "dangerous file" click "More > Run anyway". (The file is safe.)
  3. The installer will open up. You can navigate it with arrows.
- 4. Select stikosekutilities - (old but gold) if its not selected by default and press enter.
+ 4. Select stikosekutilities - (old but gold) if it's not selected by default and press enter.
  5. Select install.
  The installer will now do all the work and once it says instalation complete you are ready to go.
  If the instalator fails, try the manual instalation instead.
@@ -61,8 +61,8 @@ Everything is gui controlled
 
 # Other
 If you need help or wanna hang out join my [discord server](https://discord.gg/29PAur9AkB)!
-If you really like the cheats you can [donate](https://ko-fi.com/stikosek)!
-If you want to, you can take this shitty code. Attribution would be appreciated tho.
+If you really like the mod you can [donate](https://ko-fi.com/stikosek)!
+
 
 
 
